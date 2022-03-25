@@ -1,7 +1,7 @@
 
 import unittest
 
-from ShipGame import ShipGame
+from ship_game.ShipGame import ShipGame
 
 
 class ShipGameTester(unittest.TestCase):
